@@ -1,10 +1,12 @@
-<h1>Hi 👋, I'm Bowen</h1>
+# Hi 👋, I'm Bowen
 
 - 🌱 I’m currently learning **Rust and Qiskit**
 
 - 👨‍💻 All of my projects are available at [https://hubowen.dev/](https://hubowen.dev/)
 
 - 📫 Reach me at **contact@hubowen.dev**
+
+# My Stats
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notbowen&theme=onedark&rank=-C,-B&column=3" alt="notbowen" /></a> </p>
 
