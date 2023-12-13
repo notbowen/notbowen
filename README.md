@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Hi 👋, I'm Bowen</h1>
 
-<!--
-**notbowen/notbowen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Rust and Qiskit**
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [https://hubowen.dev/](https://hubowen.dev/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Reach me at **contact@hubowen.dev**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notbowen&theme=onedark&rank=-C,-B&column=3" alt="notbowen" /></a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notbowen&show_icons=true&locale=en&theme=gruvbox" alt="notbowen" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notbowen&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="notbowen" /></p>
