@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Rust and Qiskit**
 
-- 👨‍💻 All of my projects are available at [https://hubowen.dev/](https://hubowen.dev/)
+- 👨‍💻 Find out more about me at **[https://hubowen.dev/](https://hubowen.dev/)**
 
 - 📫 Reach me at **contact@hubowen.dev**
 
