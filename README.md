@@ -1,10 +1,10 @@
 # Hi 👋, I'm Bowen
 
-- 🌱 I’m currently studying **Cybersecurity** at **Ngee Ann Polytechnic**
+- 📚 I’m currently studying **Cybersecurity** at **Ngee Ann Polytechnic**
 
 - 👨‍💻 Find out more about me at **[https://hubowen.dev/](https://hubowen.dev/)**
 
-- 📫 Reach me at **contact@hubowen.dev**
+- 💌 Reach me at **contact@hubowen.dev**
 
 # My Stats
 
