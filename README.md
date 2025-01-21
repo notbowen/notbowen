@@ -12,5 +12,5 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notbowen&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="notbowen" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=notbowen&show_icons=true&locale=en&theme=gruvbox" alt="notbowen" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=notbowen&show_icons=true&locale=en&theme=gruvbox&hide_rank=true" alt="notbowen" />
 </p>
