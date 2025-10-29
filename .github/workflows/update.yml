@@ -34,5 +34,8 @@ jobs:
             SHOW_SHORT_INFO: False
             SHOW_LOC_CHART: False
             SHOW_UPDATED_DATE: False
+            COMMIT_USERNAME: notbowen
+            COMMIT_EMAIL: contact@hubowen.dev
+            COMMIT_MESSAGE: WakaTime update
 
 # Modified from: https://github.com/jiayuqi7813/jiayuqi7813/blob/109f77e6feb5bee886a9109c09831cf5949b891d/.github/workflows/blog-post-workflow.yml
