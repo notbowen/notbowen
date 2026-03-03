@@ -12,10 +12,10 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                437 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-🌆 Daytime                1519 commits        ███████████░░░░░░░░░░░░░░   45.68 % 
-🌃 Evening                1249 commits        █████████░░░░░░░░░░░░░░░░   37.56 % 
-🌙 Night                  120 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+🌞 Morning                438 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+🌆 Daytime                1526 commits        ███████████░░░░░░░░░░░░░░   45.69 % 
+🌃 Evening                1256 commits        █████████░░░░░░░░░░░░░░░░   37.60 % 
+🌙 Night                  120 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 ```
 
 
@@ -25,19 +25,18 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   25 mins             █████████████████░░░░░░░░   68.74 % 
-CSV                      11 mins             ███████░░░░░░░░░░░░░░░░░░   29.85 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+CSV                      11 mins             █████████████████░░░░░░░░   67.03 % 
+Python                   5 mins              ███████░░░░░░░░░░░░░░░░░░   29.80 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 🔥 Editors: 
-Neovim                   37 mins             █████████████████████████   100.00 % 
+Neovim                   16 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          20 mins             ██████████████░░░░░░░░░░░   55.47 % 
-CRAG                     16 mins             ███████████░░░░░░░░░░░░░░   44.53 % 
+CRAG                     16 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    37 mins             █████████████████████████   100.00 % 
+Linux                    16 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
