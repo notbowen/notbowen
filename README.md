@@ -25,18 +25,16 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-CSV                      11 mins             █████████████████░░░░░░░░   67.03 % 
-Python                   5 mins              ███████░░░░░░░░░░░░░░░░░░   29.80 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CRAG                     16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
