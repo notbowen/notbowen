@@ -40,7 +40,7 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   60 repos            ██████████░░░░░░░░░░░░░░░   41.96 % 
+Python                   59 repos            ██████████░░░░░░░░░░░░░░░   41.26 % 
 JavaScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 C#                       5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 Nix                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
