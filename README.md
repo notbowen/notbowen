@@ -12,10 +12,10 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                438 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-🌆 Daytime                1529 commits        ███████████░░░░░░░░░░░░░░   45.57 % 
-🌃 Evening                1268 commits        █████████░░░░░░░░░░░░░░░░   37.79 % 
-🌙 Night                  120 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+🌞 Morning                438 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+🌆 Daytime                1529 commits        ███████████░░░░░░░░░░░░░░   45.55 % 
+🌃 Evening                1270 commits        █████████░░░░░░░░░░░░░░░░   37.83 % 
+🌙 Night                  120 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
@@ -40,11 +40,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   59 repos            ██████████░░░░░░░░░░░░░░░   41.26 % 
-JavaScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-C#                       5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-Nix                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-OCaml                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Python                   59 repos            ██████████░░░░░░░░░░░░░░░   40.97 % 
+JavaScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+C#                       5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+OCaml                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Nix                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 ```
 
 
