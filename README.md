@@ -12,9 +12,9 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                438 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-🌆 Daytime                1531 commits        ███████████░░░░░░░░░░░░░░   45.57 % 
-🌃 Evening                1271 commits        █████████░░░░░░░░░░░░░░░░   37.83 % 
+🌞 Morning                438 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+🌆 Daytime                1533 commits        ███████████░░░░░░░░░░░░░░   45.60 % 
+🌃 Evening                1271 commits        █████████░░░░░░░░░░░░░░░░   37.80 % 
 🌙 Night                  120 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
@@ -25,16 +25,16 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+OCaml                    1 hr 9 mins         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   1 hr 9 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+zoo                      1 hr 9 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
