@@ -12,9 +12,9 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                438 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-🌆 Daytime                1533 commits        ███████████░░░░░░░░░░░░░░   45.57 % 
-🌃 Evening                1273 commits        █████████░░░░░░░░░░░░░░░░   37.84 % 
+🌞 Morning                438 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+🌆 Daytime                1533 commits        ███████████░░░░░░░░░░░░░░   45.54 % 
+🌃 Evening                1275 commits        █████████░░░░░░░░░░░░░░░░   37.88 % 
 🌙 Night                  120 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
@@ -25,24 +25,24 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   35.33 % 
-OCaml                    1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-Nix                      41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Bash                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-YAML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Python                   2 hrs 56 mins       ███████████░░░░░░░░░░░░░░   45.83 % 
+OCaml                    1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+Nix                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Bash                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 46 mins       █████████████████████████   100.00 % 
+Neovim                   6 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-atc-c3-bci               2 hrs 18 mins       ████████████░░░░░░░░░░░░░   48.46 % 
-zoo                      1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-nix                      41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Unknown Project          25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-eegnet-bowen             10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+atc-c3-bci               2 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   39.21 % 
+artificially-intelligent 1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
+zoo                      1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+nix                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Unknown Project          25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
 
 💻 Operating System: 
-Mac                      4 hrs 46 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
