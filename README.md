@@ -25,25 +25,25 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   4 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   41.26 % 
-Rust                     2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
-Nix                      1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Bash                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Python                   4 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   40.19 % 
+Rust                     2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Nix                      1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Bash                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 
 🔥 Editors: 
-Neovim                   11 hrs 42 mins      █████████████████████████   100.00 % 
+Neovim                   12 hrs 1 min        █████████████████████████   100.00 % 
 Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-atc-c3-bci               2 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
-Unknown Project          2 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-artificially-intelligent 1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-aether-code              1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-nix                      1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+atc-c3-bci               2 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
+Unknown Project          2 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+aether-code              1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+artificially-intelligent 1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+nix                      1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
 
 💻 Operating System: 
-Mac                      11 hrs 42 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
