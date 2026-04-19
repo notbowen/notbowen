@@ -9,6 +9,42 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 ---
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                438 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+🌆 Daytime                1544 commits        ███████████░░░░░░░░░░░░░░   44.94 % 
+🌃 Evening                1317 commits        ██████████░░░░░░░░░░░░░░░   38.33 % 
+🌙 Night                  137 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+Rust                     3 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+Swift                    2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+Python                   1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Markdown                 1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Other                    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+
+🔥 Editors: 
+Neovim                   14 hrs 43 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+sgbuss-backend           4 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   32.79 % 
+SGBuss                   3 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+atc-c3-bci               3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
+Unknown Project          1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+website                  57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+
+💻 Operating System: 
+Mac                      14 hrs 43 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
