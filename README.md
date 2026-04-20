@@ -25,24 +25,24 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Rust                     3 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-Swift                    2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-Python                   1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Markdown                 1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-Other                    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Rust                     3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+Swift                    2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+Python                   1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Markdown                 1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Other                    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
 
 🔥 Editors: 
-Neovim                   14 hrs 43 mins      █████████████████████████   100.00 % 
+Neovim                   14 hrs 25 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sgbuss-backend           4 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   32.79 % 
-SGBuss                   3 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
-atc-c3-bci               3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
-Unknown Project          1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-website                  57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+sgbuss-backend           4 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   33.50 % 
+SGBuss                   3 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
+atc-c3-bci               3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Unknown Project          1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+website                  57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
 
 💻 Operating System: 
-Mac                      14 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
