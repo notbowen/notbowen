@@ -12,10 +12,10 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                438 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-🌆 Daytime                1544 commits        ███████████░░░░░░░░░░░░░░   44.91 % 
-🌃 Evening                1319 commits        ██████████░░░░░░░░░░░░░░░   38.37 % 
-🌙 Night                  137 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+🌞 Morning                438 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+🌆 Daytime                1544 commits        ███████████░░░░░░░░░░░░░░   44.94 % 
+🌃 Evening                1317 commits        ██████████░░░░░░░░░░░░░░░   38.33 % 
+🌙 Night                  137 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 ```
 
 
@@ -25,24 +25,24 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Rust                     3 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
-Swift                    2 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
-Python                   2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Markdown                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Docker                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Rust                     3 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+Swift                    2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
+Python                   2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+Markdown                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Docker                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
 
 🔥 Editors: 
-Neovim                   12 hrs 41 mins      █████████████████████████   100.00 % 
+Neovim                   11 hrs 19 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sgbuss-backend           4 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   38.05 % 
-SGBuss                   3 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.75 % 
-atc-c3-bci               2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Unknown Project          1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Notes                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+sgbuss-backend           4 hrs 49 mins       ███████████░░░░░░░░░░░░░░   42.65 % 
+SGBuss                   3 hrs               ███████░░░░░░░░░░░░░░░░░░   26.51 % 
+atc-c3-bci               2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Unknown Project          1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+nix                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 💻 Operating System: 
-Mac                      12 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
