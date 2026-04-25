@@ -25,24 +25,25 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Swift                    2 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   30.41 % 
-Rust                     2 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-Markdown                 56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Python                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-Docker                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Swift                    1 hr 40 mins        ██████████░░░░░░░░░░░░░░░   40.96 % 
+Python                   1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   31.49 % 
+Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+Rust                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 🔥 Editors: 
-Neovim                   8 hrs 31 mins       █████████████████████████   100.00 % 
+Neovim                   3 hrs 59 mins       ████████████████████████░   97.43 % 
+Cursor                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 🐱‍💻 Projects: 
-sgbuss-backend           3 hrs 59 mins       ████████████░░░░░░░░░░░░░   46.69 % 
-SGBuss                   2 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   32.97 % 
-Unknown Project          1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-app                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-nix                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+SGBuss                   1 hr 46 mins        ███████████░░░░░░░░░░░░░░   43.29 % 
+Unknown Project          1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+sgbuss-backend           34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+artificially-intelligent 33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+IOAI Selection Prep      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 💻 Operating System: 
-Mac                      8 hrs 31 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
