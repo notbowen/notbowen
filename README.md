@@ -13,8 +13,8 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 
 ```text
 🌞 Morning                438 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-🌆 Daytime                1544 commits        ███████████░░░░░░░░░░░░░░   44.94 % 
-🌃 Evening                1317 commits        ██████████░░░░░░░░░░░░░░░   38.33 % 
+🌆 Daytime                1544 commits        ███████████░░░░░░░░░░░░░░   44.96 % 
+🌃 Evening                1315 commits        ██████████░░░░░░░░░░░░░░░   38.29 % 
 🌙 Night                  137 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 ```
 
@@ -25,25 +25,24 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Swift                    1 hr 40 mins        ██████████░░░░░░░░░░░░░░░   40.96 % 
-Python                   1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   31.49 % 
-Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Rust                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Python                   1 hr 17 mins        ████████████████████████░   97.09 % 
+Nix                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 59 mins       ████████████████████████░   97.43 % 
-Cursor                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Neovim                   1 hr 13 mins        ███████████████████████░░   92.09 % 
+Cursor                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
 
 🐱‍💻 Projects: 
-SGBuss                   1 hr 46 mins        ███████████░░░░░░░░░░░░░░   43.29 % 
-Unknown Project          1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
-sgbuss-backend           34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-artificially-intelligent 33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-IOAI Selection Prep      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Unknown Project          36 mins             ████████████░░░░░░░░░░░░░   46.14 % 
+artificially-intelligent 33 mins             ███████████░░░░░░░░░░░░░░   42.14 % 
+IOAI Selection Prep      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+ioai-2026-prep           2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+nix                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 
 💻 Operating System: 
-Mac                      4 hrs 5 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
