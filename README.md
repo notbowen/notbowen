@@ -12,10 +12,10 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                438 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-🌆 Daytime                1545 commits        ███████████░░░░░░░░░░░░░░   44.85 % 
-🌃 Evening                1316 commits        ██████████░░░░░░░░░░░░░░░   38.20 % 
-🌙 Night                  146 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+🌞 Morning                438 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+🌆 Daytime                1546 commits        ███████████░░░░░░░░░░░░░░   44.84 % 
+🌃 Evening                1318 commits        ██████████░░░░░░░░░░░░░░░   38.23 % 
+🌙 Night                  146 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 ```
 
 
@@ -25,26 +25,25 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Other                    1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Python                   1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-TOML                     1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Markdown                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-TypeScript               45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Other                    1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Nix                      1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+TOML                     1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Markdown                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+TypeScript               45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 19 mins       █████████████████████████   98.39 % 
-Cursor                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Neovim                   7 hrs 11 mins       █████████████████████████   99.80 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🐱‍💻 Projects: 
-mesh-chat                1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-discord-bot              1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Unknown Project          1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-nix                      58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-SGBuss                   49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+mesh-chat                1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+nix                      1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+discord-bot              1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Unknown Project          1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+SGBuss                   49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
 
 💻 Operating System: 
-Mac                      7 hrs 26 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
