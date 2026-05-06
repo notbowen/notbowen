@@ -25,25 +25,25 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Other                    1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-TOML                     1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Nix                      51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Markdown                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-TypeScript               45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Other                    1 hr 14 mins        ████████░░░░░░░░░░░░░░░░░   33.88 % 
+TOML                     1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   29.14 % 
+Nix                      45 mins             █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
+Python                   34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Java                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-Neovim                   6 hrs 30 mins       █████████████████████████   99.78 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Neovim                   3 hrs 40 mins       █████████████████████████   99.61 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🐱‍💻 Projects: 
-mesh-chat                1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
-discord-bot              1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
-nix                      1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Unknown Project          1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-app                      39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+mesh-chat                1 hr 40 mins        ███████████░░░░░░░░░░░░░░   45.37 % 
+nix                      59 mins             ███████░░░░░░░░░░░░░░░░░░   26.89 % 
+app                      39 mins             █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+esp32_image_parser       11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Unknown Project          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 💻 Operating System: 
-Mac                      6 hrs 31 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
