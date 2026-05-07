@@ -12,10 +12,10 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                438 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-🌆 Daytime                1546 commits        ███████████░░░░░░░░░░░░░░   44.86 % 
-🌃 Evening                1316 commits        ██████████░░░░░░░░░░░░░░░   38.19 % 
-🌙 Night                  146 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+🌞 Morning                438 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+🌆 Daytime                1546 commits        ███████████░░░░░░░░░░░░░░   44.84 % 
+🌃 Evening                1318 commits        ██████████░░░░░░░░░░░░░░░   38.23 % 
+🌙 Night                  146 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 ```
 
 
@@ -25,25 +25,24 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Other                    1 hr 14 mins        ████████░░░░░░░░░░░░░░░░░   33.88 % 
-TOML                     1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-Nix                      45 mins             █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
-Python                   34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Java                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Other                    54 mins             █████████████░░░░░░░░░░░░   53.42 % 
+Nix                      45 mins             ███████████░░░░░░░░░░░░░░   44.91 % 
+Java                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 40 mins       █████████████████████████   99.61 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Neovim                   1 hr 40 mins        █████████████████████████   99.15 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🐱‍💻 Projects: 
-mesh-chat                1 hr 40 mins        ███████████░░░░░░░░░░░░░░   45.37 % 
-nix                      59 mins             ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-app                      39 mins             █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-esp32_image_parser       11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-Unknown Project          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+nix                      59 mins             ███████████████░░░░░░░░░░   58.34 % 
+app                      39 mins             ██████████░░░░░░░░░░░░░░░   39.26 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+DEFCON_CHV_SG            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 💻 Operating System: 
-Mac                      3 hrs 41 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
