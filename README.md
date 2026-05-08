@@ -13,8 +13,8 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 
 ```text
 🌞 Morning                438 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-🌆 Daytime                1546 commits        ███████████░░░░░░░░░░░░░░   44.84 % 
-🌃 Evening                1318 commits        ██████████░░░░░░░░░░░░░░░   38.23 % 
+🌆 Daytime                1546 commits        ███████████░░░░░░░░░░░░░░   44.82 % 
+🌃 Evening                1319 commits        ██████████░░░░░░░░░░░░░░░   38.24 % 
 🌙 Night                  146 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 ```
 
@@ -25,34 +25,35 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Other                    54 mins             █████████████░░░░░░░░░░░░   53.42 % 
-Nix                      45 mins             ███████████░░░░░░░░░░░░░░   44.91 % 
-Java                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Python                   1 hr 36 mins        ██████████████████░░░░░░░   71.97 % 
+Nix                      29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+XML                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+TOML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Neovim                   1 hr 40 mins        █████████████████████████   99.15 % 
-Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Neovim                   1 hr 24 mins        ████████████████░░░░░░░░░   62.63 % 
+Unknown Editor           50 mins             █████████░░░░░░░░░░░░░░░░   37.37 % 
 
 🐱‍💻 Projects: 
-nix                      59 mins             ███████████████░░░░░░░░░░   58.34 % 
-app                      39 mins             ██████████░░░░░░░░░░░░░░░   39.26 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-DEFCON_CHV_SG            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Unknown Project          52 mins             ██████████░░░░░░░░░░░░░░░   38.73 % 
+ev-ultralytics           29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+nix                      29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+view-event-camera        22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+grad-email               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 💻 Operating System: 
-Mac                      1 hr 41 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   60 repos            ██████████░░░░░░░░░░░░░░░   40.54 % 
-Rust                     16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-TypeScript               8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-OCaml                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-Nix                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Python                   60 repos            ██████████░░░░░░░░░░░░░░░   40.27 % 
+Rust                     16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+HTML                     14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+TypeScript               8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+OCaml                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 ```
 
 
