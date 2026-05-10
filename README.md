@@ -12,10 +12,10 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                438 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-🌆 Daytime                1546 commits        ███████████░░░░░░░░░░░░░░   44.81 % 
-🌃 Evening                1320 commits        ██████████░░░░░░░░░░░░░░░   38.26 % 
-🌙 Night                  146 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+🌞 Morning                442 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+🌆 Daytime                1546 commits        ███████████░░░░░░░░░░░░░░   44.51 % 
+🌃 Evening                1338 commits        ██████████░░░░░░░░░░░░░░░   38.53 % 
+🌙 Night                  147 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 ```
 
 
@@ -25,32 +25,32 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   1 hr 36 mins        █████████████████░░░░░░░░   66.44 % 
-OCaml                    25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Nix                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-XML                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-lisp                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Python                   2 hrs 34 mins       ███████████░░░░░░░░░░░░░░   45.00 % 
+Docker                   50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Bash                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+TOML                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+OCaml                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
 
 🔥 Editors: 
-Neovim                   1 hr 19 mins        ██████████████░░░░░░░░░░░   54.30 % 
-Unknown Editor           50 mins             █████████░░░░░░░░░░░░░░░░   34.50 % 
-Zed                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Neovim                   2 hrs 29 mins       ███████████░░░░░░░░░░░░░░   43.44 % 
+Unknown Editor           2 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   36.82 % 
+Zed                      1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 25 mins        ███████████████░░░░░░░░░░   58.64 % 
-ev-ultralytics           29 mins             █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-view-event-camera        22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-nix                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-grad-email               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+til-26-aiail             1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   28.25 % 
+Unknown Project          1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+til-26-attention-is-all-i1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+ev-ultralytics           29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+view-event-camera        22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 
 💻 Operating System: 
-Mac                      2 hrs 25 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   60 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
+Python                   61 repos            ██████████░░░░░░░░░░░░░░░   40.67 % 
 Rust                     16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
 HTML                     14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
 TypeScript               8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
