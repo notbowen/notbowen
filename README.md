@@ -12,10 +12,10 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                449 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-🌆 Daytime                1546 commits        ███████████░░░░░░░░░░░░░░   44.43 % 
-🌃 Evening                1338 commits        ██████████░░░░░░░░░░░░░░░   38.45 % 
-🌙 Night                  147 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+🌞 Morning                466 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+🌆 Daytime                1557 commits        ███████████░░░░░░░░░░░░░░   44.21 % 
+🌃 Evening                1351 commits        ██████████░░░░░░░░░░░░░░░   38.36 % 
+🌙 Night                  148 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 ```
 
 
