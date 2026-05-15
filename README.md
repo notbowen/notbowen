@@ -9,44 +9,6 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 ---
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                504 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-🌆 Daytime                1596 commits        ███████████░░░░░░░░░░░░░░   43.83 % 
-🌃 Evening                1377 commits        █████████░░░░░░░░░░░░░░░░   37.82 % 
-🌙 Night                  164 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-Python                   10 hrs 32 mins      ██████████████████░░░░░░░   71.50 % 
-Docker                   1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Bash                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-TOML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-OCaml                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-
-🔥 Editors: 
-Unknown Editor           8 hrs 8 mins        ██████████████░░░░░░░░░░░   55.23 % 
-Neovim                   3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-Zed                      3 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-
-🐱‍💻 Projects: 
-til-26-attention-is-all-i8 hrs 22 mins       ██████████████░░░░░░░░░░░   56.85 % 
-Unknown Project          2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-til-26-aiail             1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-til-26-ae                41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-watermark-remover        38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-
-💻 Operating System: 
-Mac                      14 hrs 44 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
