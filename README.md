@@ -12,10 +12,10 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                505 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-🌆 Daytime                1606 commits        ███████████░░░░░░░░░░░░░░   43.88 % 
-🌃 Evening                1385 commits        █████████░░░░░░░░░░░░░░░░   37.84 % 
-🌙 Night                  164 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+🌞 Morning                537 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+🌆 Daytime                1640 commits        ███████████░░░░░░░░░░░░░░   43.62 % 
+🌃 Evening                1403 commits        █████████░░░░░░░░░░░░░░░░   37.31 % 
+🌙 Night                  180 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 ```
 
 
@@ -25,26 +25,26 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   15 hrs 48 mins      ███████████████████░░░░░░   75.22 % 
-Docker                   1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Bash                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-TOML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Markdown                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Python                   14 hrs 57 mins      █████████████████████░░░░   83.89 % 
+Docker                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+TOML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Typst                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 Editors: 
-Unknown Editor           14 hrs 9 mins       █████████████████░░░░░░░░   67.38 % 
-Zed                      4 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-Neovim                   2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Unknown Editor           13 hrs              ██████████████████░░░░░░░   72.91 % 
+Zed                      3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Neovim                   1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
 
 🐱‍💻 Projects: 
-til-26-attention-is-all-i16 hrs 13 mins      ███████████████████░░░░░░   77.16 % 
-til-26-aiail             1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-Unknown Project          1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-til-26-ae                49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-watermark-remover        36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+til-26-attention-is-all-i15 hrs 3 mins       █████████████████████░░░░   84.40 % 
+Unknown Project          57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+watermark-remover        36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+til-26-ae                33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+website                  22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 💻 Operating System: 
-Mac                      21 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      17 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
