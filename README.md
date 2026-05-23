@@ -12,10 +12,10 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                614 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-🌆 Daytime                1771 commits        ███████████░░░░░░░░░░░░░░   43.04 % 
-🌃 Evening                1492 commits        █████████░░░░░░░░░░░░░░░░   36.26 % 
-🌙 Night                  238 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+🌞 Morning                649 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+🌆 Daytime                1818 commits        ███████████░░░░░░░░░░░░░░   42.74 % 
+🌃 Evening                1529 commits        █████████░░░░░░░░░░░░░░░░   35.94 % 
+🌙 Night                  258 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 ```
 
 
@@ -25,26 +25,26 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   8 hrs 56 mins       █████████████░░░░░░░░░░░░   50.14 % 
-Rust                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Bash                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-Elixir                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Markdown                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Python                   9 hrs 35 mins       ████████████░░░░░░░░░░░░░   48.49 % 
+Bash                     1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Rust                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Markdown                 1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Elixir                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 25 mins      █████████████████░░░░░░░░   69.66 % 
-Neovim                   3 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-Zed                      2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Claude Code              14 hrs 5 mins       ██████████████████░░░░░░░   71.26 % 
+Neovim                   3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+Zed                      2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
 
 🐱‍💻 Projects: 
-til-26-attention-is-all-i10 hrs 51 mins      ███████████████░░░░░░░░░░   60.93 % 
-securist                 3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-finals-platform          1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Unknown Project          56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-website                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+til-26-attention-is-all-i12 hrs 56 mins      ████████████████░░░░░░░░░   65.43 % 
+securist                 3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+finals-platform          1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Unknown Project          56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+website                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 💻 Operating System: 
-Mac                      17 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
