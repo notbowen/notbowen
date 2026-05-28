@@ -12,10 +12,10 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                565 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-🌆 Daytime                1749 commits        ███████████░░░░░░░░░░░░░░   43.80 % 
-🌃 Evening                1463 commits        █████████░░░░░░░░░░░░░░░░   36.64 % 
-🌙 Night                  216 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+🌞 Morning                580 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+🌆 Daytime                1758 commits        ███████████░░░░░░░░░░░░░░   43.70 % 
+🌃 Evening                1469 commits        █████████░░░░░░░░░░░░░░░░   36.52 % 
+🌙 Night                  216 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 ```
 
 
@@ -25,35 +25,35 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   9 hrs 33 mins       ███████████░░░░░░░░░░░░░░   44.08 % 
-Docker                   1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Markdown                 1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-Rust                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Bash                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Python                   11 hrs 22 mins      ██████████████░░░░░░░░░░░   56.24 % 
+Docker                   2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Markdown                 1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Bash                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 26 mins      █████████████████░░░░░░░░   66.68 % 
-Zed                      4 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
-Neovim                   2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Claude Code              12 hrs 27 mins      ███████████████░░░░░░░░░░   61.58 % 
+Zed                      6 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   32.75 % 
+Neovim                   1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 
 🐱‍💻 Projects: 
-til-26-attention-is-all-i12 hrs 27 mins      ██████████████░░░░░░░░░░░   57.48 % 
-securist                 3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Unknown Project          2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-finals-platform          1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-imagemagick-src          51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+til-26-attention-is-all-i11 hrs 44 mins      ███████████████░░░░░░░░░░   58.03 % 
+attender                 2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Unknown Project          2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+finals-platform          1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+imagemagick-src          51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 
 💻 Operating System: 
-Mac                      21 hrs 40 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Rust                     16 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-HTML                     14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Jupyter Notebook         7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-OCaml                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Python                   61 repos            ██████████░░░░░░░░░░░░░░░   40.13 % 
+HTML                     14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+Jupyter Notebook         7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+OCaml                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 Elixir                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 
