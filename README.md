@@ -25,27 +25,27 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   6 hrs 46 mins       ███████████░░░░░░░░░░░░░░   42.06 % 
-Nix                      2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Bash                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Markdown                 1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Other                    1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Python                   7 hrs 34 mins       ███████████░░░░░░░░░░░░░░   44.78 % 
+Nix                      2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Bash                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Markdown                 1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Other                    1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 51 mins       ███████████████░░░░░░░░░░   61.18 % 
-Codex CLI                2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Neovim                   2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Zed                      1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+VS Code                  10 hrs 38 mins      ████████████████░░░░░░░░░   62.95 % 
+Codex CLI                2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Neovim                   2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Zed                      1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
 
 🐱‍💻 Projects: 
-til-26-attention-is-all-i8 hrs 37 mins       █████████████░░░░░░░░░░░░   53.49 % 
-barricade                2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-nix                      2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-til-26-surprise          1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Unknown Project          1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+til-26-attention-is-all-i8 hrs 52 mins       █████████████░░░░░░░░░░░░   52.50 % 
+barricade                2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+nix                      2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+til-26-surprise          1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Unknown Project          1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
 
 💻 Operating System: 
-Mac                      16 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      16 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
