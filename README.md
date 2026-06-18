@@ -12,10 +12,10 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                712 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-🌆 Daytime                2044 commits        ███████████░░░░░░░░░░░░░░   43.81 % 
-🌃 Evening                1619 commits        █████████░░░░░░░░░░░░░░░░   34.70 % 
-🌙 Night                  291 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+🌞 Morning                752 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+🌆 Daytime                2097 commits        ███████████░░░░░░░░░░░░░░   43.55 % 
+🌃 Evening                1655 commits        █████████░░░░░░░░░░░░░░░░   34.37 % 
+🌙 Night                  311 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
 ```
 
 
@@ -25,36 +25,36 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   5 hrs 52 mins       █████████████░░░░░░░░░░░░   52.55 % 
-C++                      1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Markdown                 1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Astro                    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-Text                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Python                   2 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   37.72 % 
+C++                      1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+Astro                    57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Markdown                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Text                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 13 mins       ██████████████░░░░░░░░░░░   55.70 % 
-Codex CLI                2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
-Neovim                   2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-Zed                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Codex CLI                2 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   35.19 % 
+VS Code                  2 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   33.74 % 
+Neovim                   1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+Zed                      33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
 
 🐱‍💻 Projects: 
-til-26-attention-is-all-i3 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   34.60 % 
-ai-agent-security        2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
-Unknown Project          1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-til-26-surprise          1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-website                  1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+ai-agent-security        2 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   36.24 % 
+Unknown Project          2 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   30.33 % 
+website                  1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+til-26-attention-is-all-i37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+cddc-2026                32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
 
 💻 Operating System: 
-Mac                      11 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      7 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   65 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
-HTML                     14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Jupyter Notebook         6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-OCaml                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Python                   66 repos            ███████████░░░░░░░░░░░░░░   42.04 % 
+HTML                     14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Jupyter Notebook         6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+OCaml                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 Elixir                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 
