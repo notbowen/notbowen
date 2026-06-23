@@ -25,28 +25,28 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.42 % 
-Markdown                 1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-GDScript3                55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-GDScript                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Text                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Python                   1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+Markdown                 1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+GDScript3                55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+TypeScript               41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+GDScript                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
 
 🔥 Editors: 
-Codex CLI                3 hrs 30 mins       █████████████░░░░░░░░░░░░   50.48 % 
-Zed                      1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   26.71 % 
-VS Code                  53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Neovim                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-Cursor                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Codex CLI                2 hrs 49 mins       ███████████░░░░░░░░░░░░░░   44.28 % 
+Zed                      1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+VS Code                  53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Neovim                   40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Cursor                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 
 🐱‍💻 Projects: 
-barricade                2 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   30.11 % 
-ai-agent-security        2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.89 % 
-atc-c3-bci               1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
-Unknown Project          33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-nix                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+barricade                2 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   32.93 % 
+atc-c3-bci               1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
+ai-agent-security        52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Unknown Project          36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+finals-platform          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 
 💻 Operating System: 
-Mac                      6 hrs 57 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
