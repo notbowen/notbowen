@@ -25,28 +25,27 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-GDScript3                45 mins             █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-TypeScript               42 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Swift                    34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Markdown                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-GDScript                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+TypeScript               42 mins             █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+GDScript3                38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Swift                    34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Markdown                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+GDScript                 22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
 
 🔥 Editors: 
-Codex CLI                1 hr 50 mins        ████████████░░░░░░░░░░░░░   46.33 % 
-Zed                      56 mins             ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-VS Code                  35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Neovim                   28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-Cursor                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Codex CLI                1 hr 50 mins        ████████████░░░░░░░░░░░░░   48.45 % 
+Zed                      53 mins             ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+VS Code                  35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Neovim                   28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
 
 🐱‍💻 Projects: 
-barricade                1 hr 29 mins        █████████░░░░░░░░░░░░░░░░   37.33 % 
-finals-platform          58 mins             ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
-Replicate                28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-SGBuss                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-sgbuss-backend           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+barricade                1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   34.46 % 
+finals-platform          58 mins             ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
+Replicate                28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+SGBuss                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+sgbuss-backend           13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 
 💻 Operating System: 
-Mac                      3 hrs 58 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
