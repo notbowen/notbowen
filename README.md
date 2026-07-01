@@ -13,8 +13,8 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 
 ```text
 🌞 Morning                756 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-🌆 Daytime                2095 commits        ███████████░░░░░░░░░░░░░░   43.37 % 
-🌃 Evening                1665 commits        █████████░░░░░░░░░░░░░░░░   34.46 % 
+🌆 Daytime                2095 commits        ███████████░░░░░░░░░░░░░░   43.36 % 
+🌃 Evening                1666 commits        █████████░░░░░░░░░░░░░░░░   34.48 % 
 🌙 Night                  315 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
 ```
 
