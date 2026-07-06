@@ -12,10 +12,10 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                756 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-🌆 Daytime                2095 commits        ███████████░░░░░░░░░░░░░░   43.29 % 
-🌃 Evening                1673 commits        █████████░░░░░░░░░░░░░░░░   34.57 % 
-🌙 Night                  315 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+🌞 Morning                756 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+🌆 Daytime                2100 commits        ███████████░░░░░░░░░░░░░░   43.33 % 
+🌃 Evening                1675 commits        █████████░░░░░░░░░░░░░░░░   34.56 % 
+🌙 Night                  315 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
 ```
 
 
@@ -25,36 +25,37 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Rust                     45 mins             ██████████████░░░░░░░░░░░   54.81 % 
-Bash                     21 mins             ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
-Swift                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-Nix                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+TypeScript               2 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   40.57 % 
+Rust                     1 hr                ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+TOML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Bash                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 
 🔥 Editors: 
-VS Code                  41 mins             █████████████░░░░░░░░░░░░   50.16 % 
-Neovim                   27 mins             ████████░░░░░░░░░░░░░░░░░   32.94 % 
-Codex CLI                13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+VS Code                  3 hrs 29 mins       ███████████████░░░░░░░░░░   59.59 % 
+Zed                      1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+Neovim                   37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Codex CLI                36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
 
 🐱‍💻 Projects: 
-sgbuss-backend           52 mins             ████████████████░░░░░░░░░   63.18 % 
-Unknown Project          15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-SGBuss                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
-nix                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-finals-platform          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+code-review              1 hr 57 mins        ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Unknown Project          1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
+sgbuss-backend           1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+big-brother              50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+admin-site               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
 
 💻 Operating System: 
-Mac                      1 hr 22 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   66 repos            ██████████░░░░░░░░░░░░░░░   41.77 % 
-Jupyter Notebook         6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-OCaml                    4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Swift                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-Elixir                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Python                   66 repos            ██████████░░░░░░░░░░░░░░░   41.25 % 
+TypeScript               9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Jupyter Notebook         6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Swift                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Elixir                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 ```
 
 
