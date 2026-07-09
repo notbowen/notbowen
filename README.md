@@ -12,10 +12,10 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                756 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-🌆 Daytime                2107 commits        ███████████░░░░░░░░░░░░░░   43.36 % 
-🌃 Evening                1681 commits        █████████░░░░░░░░░░░░░░░░   34.60 % 
-🌙 Night                  315 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+🌞 Morning                759 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+🌆 Daytime                2110 commits        ███████████░░░░░░░░░░░░░░   43.31 % 
+🌃 Evening                1687 commits        █████████░░░░░░░░░░░░░░░░   34.63 % 
+🌙 Night                  316 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 ```
 
 
@@ -25,37 +25,37 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               3 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   35.79 % 
-JavaScript               2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-Rust                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-TOML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-HTML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+TypeScript               3 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   35.60 % 
+JavaScript               2 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+Rust                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+HTML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 17 mins       ████████████░░░░░░░░░░░░░   47.01 % 
-Claude Code              2 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
-Zed                      1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Neovim                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Codex CLI                36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+VS Code                  4 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   40.63 % 
+Claude Code              3 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   32.97 % 
+Zed                      1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Neovim                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Codex CLI                36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 
 🐱‍💻 Projects: 
-admin-site               2 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   28.74 % 
-code-review              1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
-big-brother              1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Unknown Project          1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-sgbuss-backend           1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+admin-site               3 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   29.43 % 
+code-review              1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+big-brother              1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Unknown Project          1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+sgbuss-backend           1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
 
 💻 Operating System: 
-Mac                      9 hrs 7 mins        █████████████████████████   100.00 % 
+Mac                      10 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   66 repos            ██████████░░░░░░░░░░░░░░░   41.25 % 
-TypeScript               9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-Jupyter Notebook         6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-Swift                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Python                   66 repos            ██████████░░░░░░░░░░░░░░░   40.99 % 
+TypeScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Jupyter Notebook         6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Swift                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 Elixir                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 ```
 
