@@ -12,10 +12,10 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                759 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-🌆 Daytime                2110 commits        ███████████░░░░░░░░░░░░░░   43.31 % 
-🌃 Evening                1687 commits        █████████░░░░░░░░░░░░░░░░   34.63 % 
-🌙 Night                  316 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+🌞 Morning                759 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+🌆 Daytime                2116 commits        ███████████░░░░░░░░░░░░░░   43.35 % 
+🌃 Evening                1690 commits        █████████░░░░░░░░░░░░░░░░   34.62 % 
+🌙 Night                  316 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
 ```
 
 
@@ -25,28 +25,28 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               3 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   35.60 % 
-JavaScript               2 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
-Rust                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-HTML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+TypeScript               3 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   36.48 % 
+JavaScript               2 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+Rust                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+HTML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   40.63 % 
-Claude Code              3 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   32.97 % 
-Zed                      1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Neovim                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Codex CLI                36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+VS Code                  4 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   39.93 % 
+Claude Code              3 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   33.79 % 
+Zed                      1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Neovim                   37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Codex CLI                35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 
 🐱‍💻 Projects: 
-admin-site               3 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   29.43 % 
-code-review              1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-big-brother              1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Unknown Project          1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-sgbuss-backend           1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+admin-site               3 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   30.17 % 
+code-review              1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+big-brother              1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Unknown Project          1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+sgbuss-backend           1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
 
 💻 Operating System: 
-Mac                      10 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
