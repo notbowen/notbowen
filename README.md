@@ -25,28 +25,28 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-JavaScript               40 mins             █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-JSON                     34 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-TypeScript               32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Markdown                 29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Python                   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+JSON                     34 mins             █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+TypeScript               31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Markdown                 29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+JavaScript               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Python                   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
 
 🔥 Editors: 
-Claude Code              1 hr 36 mins        ████████████░░░░░░░░░░░░░   49.02 % 
-Zed                      48 mins             ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
-VS Code                  43 mins             █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-Neovim                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-Codex CLI                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Claude Code              1 hr 16 mins        ███████████░░░░░░░░░░░░░░   43.62 % 
+Zed                      48 mins             ███████░░░░░░░░░░░░░░░░░░   27.53 % 
+VS Code                  43 mins             ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+Neovim                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Codex CLI                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 🐱‍💻 Projects: 
-finals-platform          1 hr 21 mins        ██████████░░░░░░░░░░░░░░░   41.34 % 
-admin-site               48 mins             ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-Unknown Project          32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-chat-leak                26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-nix                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+finals-platform          1 hr 21 mins        ████████████░░░░░░░░░░░░░   46.49 % 
+Unknown Project          32 mins             █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+admin-site               29 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+chat-leak                26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+nix                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 💻 Operating System: 
-Mac                      3 hrs 17 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
