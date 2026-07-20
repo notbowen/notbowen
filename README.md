@@ -25,22 +25,22 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Nix                      2 hrs 32 mins       ████████████████░░░░░░░░░   65.44 % 
-Python                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Bash                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Nix                      2 hrs 32 mins       ████████████████░░░░░░░░░   65.41 % 
+Python                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Bash                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 
 🔥 Editors: 
-Codex CLI                1 hr 33 mins        ██████████░░░░░░░░░░░░░░░   40.15 % 
-Neovim                   1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   34.84 % 
-Zed                      35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-VS Code                  23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Codex CLI                1 hr 33 mins        ██████████░░░░░░░░░░░░░░░   40.13 % 
+Neovim                   1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   34.88 % 
+Zed                      35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+VS Code                  23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
 
 🐱‍💻 Projects: 
-nix                      2 hrs 53 mins       ███████████████████░░░░░░   74.15 % 
-Unknown Project          35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-chat-leak                24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+nix                      2 hrs 53 mins       ███████████████████░░░░░░   74.11 % 
+Unknown Project          35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+chat-leak                24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
 
 💻 Operating System: 
 Mac                      3 hrs 53 mins       █████████████████████████   100.00 % 
