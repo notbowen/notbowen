@@ -25,25 +25,22 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Nix                      2 hrs 32 mins       ████████████████░░░░░░░░░   65.41 % 
-Python                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-Bash                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Nix                      2 hrs 30 mins       ██████████████████████░░░   87.25 % 
+Bash                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Public Key               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Codex CLI                1 hr 33 mins        ██████████░░░░░░░░░░░░░░░   40.13 % 
-Neovim                   1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   34.88 % 
-Zed                      35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-VS Code                  23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Codex CLI                1 hr 31 mins        █████████████░░░░░░░░░░░░   52.88 % 
+Neovim                   1 hr 21 mins        ████████████░░░░░░░░░░░░░   47.12 % 
 
 🐱‍💻 Projects: 
-nix                      2 hrs 53 mins       ███████████████████░░░░░░   74.11 % 
-Unknown Project          35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-chat-leak                24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+nix                      2 hrs 51 mins       █████████████████████████   99.01 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 💻 Operating System: 
-Mac                      3 hrs 53 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
