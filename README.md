@@ -12,9 +12,9 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                776 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-🌆 Daytime                2137 commits        ███████████░░░░░░░░░░░░░░   43.18 % 
-🌃 Evening                1719 commits        █████████░░░░░░░░░░░░░░░░   34.73 % 
+🌞 Morning                776 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+🌆 Daytime                2133 commits        ███████████░░░░░░░░░░░░░░   43.13 % 
+🌃 Evening                1719 commits        █████████░░░░░░░░░░░░░░░░   34.76 % 
 🌙 Night                  317 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 ```
 
@@ -25,22 +25,21 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Nix                      2 hrs 30 mins       ██████████████████████░░░   87.25 % 
-Bash                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-Public Key               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Nix                      2 hrs 47 mins       ██████████████████████░░░   89.14 % 
+Bash                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Codex CLI                1 hr 31 mins        █████████████░░░░░░░░░░░░   52.88 % 
-Neovim                   1 hr 21 mins        ████████████░░░░░░░░░░░░░   47.12 % 
+Codex CLI                1 hr 31 mins        ████████████░░░░░░░░░░░░░   48.51 % 
+Neovim                   1 hr 22 mins        ███████████░░░░░░░░░░░░░░   43.60 % 
+VS Code                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
 
 🐱‍💻 Projects: 
-nix                      2 hrs 51 mins       █████████████████████████   99.01 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+nix                      3 hrs 8 mins        █████████████████████████   99.93 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Mac                      2 hrs 52 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
