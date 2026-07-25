@@ -25,24 +25,21 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Nix                      2 hrs 59 mins       ████████████████████░░░░░   81.18 % 
-Bash                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-GDScript3                16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-TOML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-Godot Resource           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Nix                      27 mins             ██████████████████████░░░   87.82 % 
+Bash                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+TOML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 
 🔥 Editors: 
-Codex CLI                1 hr 56 mins        █████████████░░░░░░░░░░░░   52.82 % 
-Neovim                   1 hr 29 mins        ██████████░░░░░░░░░░░░░░░   40.46 % 
-VS Code                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+VS Code                  14 mins             ████████████░░░░░░░░░░░░░   46.89 % 
+Codex CLI                10 mins             ████████░░░░░░░░░░░░░░░░░   33.10 % 
+Neovim                   6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
 
 🐱‍💻 Projects: 
-nix                      3 hrs 22 mins       ███████████████████████░░   91.52 % 
-barricade                17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+nix                      30 mins             ████████████████████████░   95.87 % 
+Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 
 💻 Operating System: 
-Mac                      3 hrs 41 mins       █████████████████████████   100.00 % 
+Mac                      31 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
