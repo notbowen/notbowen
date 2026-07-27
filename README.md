@@ -12,10 +12,10 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                774 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-🌆 Daytime                2132 commits        ███████████░░░░░░░░░░░░░░   43.12 % 
-🌃 Evening                1721 commits        █████████░░░░░░░░░░░░░░░░   34.81 % 
-🌙 Night                  317 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+🌞 Morning                774 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+🌆 Daytime                2137 commits        ███████████░░░░░░░░░░░░░░   43.14 % 
+🌃 Evening                1726 commits        █████████░░░░░░░░░░░░░░░░   34.84 % 
+🌙 Night                  317 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
 ```
 
 
@@ -25,21 +25,18 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Nix                      27 mins             ██████████████████████░░░   87.82 % 
-Bash                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-TOML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Nix                      25 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  14 mins             ████████████░░░░░░░░░░░░░   46.89 % 
-Codex CLI                10 mins             ████████░░░░░░░░░░░░░░░░░   33.10 % 
-Neovim                   6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+VS Code                  14 mins             ███████████████░░░░░░░░░░   58.59 % 
+Codex CLI                8 mins              ████████░░░░░░░░░░░░░░░░░   31.63 % 
+Neovim                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
 
 🐱‍💻 Projects: 
-nix                      30 mins             ████████████████████████░   95.87 % 
-Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+nix                      25 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      31 mins             █████████████████████████   100.00 % 
+Mac                      25 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
