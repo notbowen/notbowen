@@ -9,6 +9,8 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 ---
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-152%20hrs%2010%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -25,46 +27,47 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               1 hr 44 mins        █████████░░░░░░░░░░░░░░░░   34.57 % 
-Markdown                 52 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Bash                     48 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-Git Config               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Nix                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+TypeScript               1 hr 44 mins        █████████░░░░░░░░░░░░░░░░   35.80 % 
+Markdown                 52 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+Bash                     48 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Git Config               29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Terraform                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 24 mins       █████████████████░░░░░░░░   67.82 % 
-Zed                      1 hr 24 mins        ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-Codex CLI                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-Neovim                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+VS Code                  3 hrs 10 mins       ████████████████░░░░░░░░░   65.15 % 
+Zed                      1 hr 27 mins        ████████░░░░░░░░░░░░░░░░░   30.13 % 
+Codex CLI                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-finals-platform          4 hrs 44 mins       ████████████████████████░   94.26 % 
-nix                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+finals-platform          4 hrs 44 mins       ████████████████████████░   97.63 % 
+nix                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-Mac                      5 hrs 2 mins        █████████████████████████   100.00 % 
+Mac                      4 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 31 mins (90.0%)
+⏱ AI Coding Time: 4 hrs 20 mins (89.36%)
 
-✍️ 3,920 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,046 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 90,079,976 Input Tokens, 346,995 Output Tokens
+🔤 90,840,965 Input Tokens, 354,310 Output Tokens
 
-💵 $429.95 Estimated AI Cost This Week
+💵 $434.07 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 24 AI Prompts
+🧠 10 AI Sessions, 26 AI Prompts
 
-GPT                      4,903 lines         █████████████████████████   100.00 % 
+GPT                      5,029 lines         █████████████████████████   100.00 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,618 characters per prompt
+📚 Verbose Prompter — average 1,518 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
