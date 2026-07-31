@@ -14,10 +14,10 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                774 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-🌆 Daytime                2147 commits        ███████████░░░░░░░░░░░░░░   43.20 % 
-🌃 Evening                1732 commits        █████████░░░░░░░░░░░░░░░░   34.85 % 
-🌙 Night                  317 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+🌞 Morning                775 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+🌆 Daytime                2152 commits        ███████████░░░░░░░░░░░░░░   43.21 % 
+🌃 Evening                1736 commits        █████████░░░░░░░░░░░░░░░░   34.86 % 
+🌙 Night                  317 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 ```
 
 
@@ -27,21 +27,21 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               1 hr 44 mins        █████████░░░░░░░░░░░░░░░░   35.80 % 
-Markdown                 52 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-Bash                     48 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-Git Config               29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+TypeScript               1 hr 44 mins        █████████░░░░░░░░░░░░░░░░   35.79 % 
+Markdown                 52 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Bash                     48 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Git Config               29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
 Terraform                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 10 mins       ████████████████░░░░░░░░░   65.15 % 
-Zed                      1 hr 27 mins        ████████░░░░░░░░░░░░░░░░░   30.13 % 
-Codex CLI                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+VS Code                  3 hrs 10 mins       ████████████████░░░░░░░░░   65.13 % 
+Zed                      1 hr 27 mins        ████████░░░░░░░░░░░░░░░░░   30.12 % 
+Codex CLI                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-finals-platform          4 hrs 44 mins       ████████████████████████░   97.63 % 
-nix                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+finals-platform          4 hrs 44 mins       ████████████████████████░   97.60 % 
+nix                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
@@ -51,9 +51,9 @@ Mac                      4 hrs 51 mins       ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 20 mins (89.36%)
+⏱ AI Coding Time: 4 hrs 20 mins (89.32%)
 
-✍️ 4,046 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,046 lines written by AI, 1 lines written by hand (99.98% AI-written)
 
 🔤 90,840,965 Input Tokens, 354,310 Output Tokens
 
@@ -66,10 +66,10 @@ Vscode-Wakatime          0 lines             ░░░░░░░░░░░�
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
+🤖 AI-Driven — 99.98% of written lines came from AI
 📚 Verbose Prompter — average 1,518 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
