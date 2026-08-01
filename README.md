@@ -14,10 +14,10 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                775 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-🌆 Daytime                2152 commits        ███████████░░░░░░░░░░░░░░   43.21 % 
-🌃 Evening                1736 commits        █████████░░░░░░░░░░░░░░░░   34.86 % 
-🌙 Night                  317 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+🌞 Morning                775 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+🌆 Daytime                2159 commits        ███████████░░░░░░░░░░░░░░   43.26 % 
+🌃 Evening                1740 commits        █████████░░░░░░░░░░░░░░░░   34.86 % 
+🌙 Night                  317 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
 ```
 
 
@@ -27,49 +27,49 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               1 hr 44 mins        █████████░░░░░░░░░░░░░░░░   35.79 % 
-Markdown                 52 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-Bash                     48 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Git Config               29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-Terraform                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+TypeScript               2 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   39.72 % 
+Markdown                 1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Bash                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Git Config               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 10 mins       ████████████████░░░░░░░░░   65.13 % 
-Zed                      1 hr 27 mins        ████████░░░░░░░░░░░░░░░░░   30.12 % 
-Codex CLI                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+VS Code                  3 hrs 40 mins       ███████████████░░░░░░░░░░   61.23 % 
+Zed                      2 hrs               ████████░░░░░░░░░░░░░░░░░   33.38 % 
+Codex CLI                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🐱‍💻 Projects: 
-finals-platform          4 hrs 44 mins       ████████████████████████░   97.60 % 
-nix                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+finals-platform          5 hrs 49 mins       ████████████████████████░   96.74 % 
+nix                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 💻 Operating System: 
-Mac                      4 hrs 51 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 20 mins (89.32%)
+⏱ AI Coding Time: 5 hrs 6 mins (84.99%)
 
-✍️ 4,046 lines written by AI, 1 lines written by hand (99.98% AI-written)
+✍️ 4,800 lines written by AI, 2 lines written by hand (99.96% AI-written)
 
-🔤 90,840,965 Input Tokens, 354,310 Output Tokens
+🔤 105,636,691 Input Tokens, 409,912 Output Tokens
 
-💵 $434.07 Estimated AI Cost This Week
+💵 $509.50 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 26 AI Prompts
+🧠 11 AI Sessions, 30 AI Prompts
 
-GPT                      5,029 lines         █████████████████████████   100.00 % 
+GPT                      5,794 lines         █████████████████████████   100.00 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 1,518 characters per prompt
+🤖 AI-Driven — 99.96% of written lines came from AI
+📄 Detailed Prompter — average 1,371 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
