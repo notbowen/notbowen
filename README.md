@@ -15,8 +15,8 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 
 ```text
 🌞 Morning                775 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-🌆 Daytime                2159 commits        ███████████░░░░░░░░░░░░░░   43.22 % 
-🌃 Evening                1744 commits        █████████░░░░░░░░░░░░░░░░   34.91 % 
+🌆 Daytime                2160 commits        ███████████░░░░░░░░░░░░░░   43.25 % 
+🌃 Evening                1742 commits        █████████░░░░░░░░░░░░░░░░   34.88 % 
 🌙 Night                  317 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
 ```
 
@@ -27,49 +27,48 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               2 hrs 52 mins       ███████████░░░░░░░░░░░░░░   42.77 % 
-Markdown                 1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
-Bash                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Git Config               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+TypeScript               3 hrs 4 mins        ████████████████░░░░░░░░░   63.61 % 
+Markdown                 34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+terraform                24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+JavaScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Just                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 47 mins       ██████████████░░░░░░░░░░░   56.62 % 
-Zed                      2 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   39.31 % 
-Codex CLI                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+VS Code                  2 hrs 49 mins       ███████████████░░░░░░░░░░   58.40 % 
+Zed                      1 hr 54 mins        ██████████░░░░░░░░░░░░░░░   39.50 % 
+Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-finals-platform          6 hrs 36 mins       █████████████████████████   98.59 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-nix                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+finals-platform          4 hrs 44 mins       █████████████████████████   98.01 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+nix                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 💻 Operating System: 
-Mac                      6 hrs 42 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 28 mins (81.71%)
+⏱ AI Coding Time: 3 hrs 53 mins (80.43%)
 
-✍️ 4,704 lines written by AI, 2 lines written by hand (99.96% AI-written)
+✍️ 2,012 lines written by AI, 2 lines written by hand (99.9% AI-written)
 
-🔤 109,019,597 Input Tokens, 415,920 Output Tokens
+🔤 53,620,988 Input Tokens, 228,417 Output Tokens
 
-💵 $524.74 Estimated AI Cost This Week
+💵 $272.49 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 29 AI Prompts
+🧠 7 AI Sessions, 21 AI Prompts
 
-GPT                      5,749 lines         █████████████████████████   100.00 % 
+GPT                      2,084 lines         █████████████████████████   100.00 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📄 Detailed Prompter — average 1,410 characters per prompt
+🤖 AI-Driven — 99.9% of written lines came from AI
+📄 Detailed Prompter — average 647 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.19% of changed lines were hand-edited
+🚀 High AI Trust — 0.53% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
