@@ -9,15 +9,15 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs%2036%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                777 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-🌆 Daytime                2164 commits        ███████████░░░░░░░░░░░░░░   43.25 % 
-🌃 Evening                1746 commits        █████████░░░░░░░░░░░░░░░░   34.89 % 
-🌙 Night                  317 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+🌞 Morning                777 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+🌆 Daytime                2165 commits        ███████████░░░░░░░░░░░░░░   43.29 % 
+🌃 Evening                1742 commits        █████████░░░░░░░░░░░░░░░░   34.83 % 
+🌙 Night                  317 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
 ```
 
 
@@ -27,43 +27,43 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               2 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
-OCaml                    2 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
-Other                    1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Markdown                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-C++                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+OCaml                    2 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   26.20 % 
+TypeScript               1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+Other                    1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+C++                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 44 mins       ████████████████░░░░░░░░░   62.55 % 
-Neovim                   1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-Zed                      1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+VS Code                  5 hrs 37 mins       █████████████████░░░░░░░░   67.23 % 
+Neovim                   1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+Zed                      55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🐱‍💻 Projects: 
-finals-platform          3 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   38.29 % 
-sybau                    2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   26.48 % 
-sat                      1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-Unknown Project          1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-nix                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+finals-platform          2 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   32.32 % 
+sybau                    2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.04 % 
+sat                      1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+Unknown Project          1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+nix                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 💻 Operating System: 
-Mac                      9 hrs 11 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 42 mins (83.92%)
+⏱ AI Coding Time: 7 hrs 14 mins (86.44%)
 
-✍️ 10,072 lines written by AI, 55 lines written by hand (99.46% AI-written)
+✍️ 10,042 lines written by AI, 55 lines written by hand (99.46% AI-written)
 
-🔤 128,675,500 Input Tokens, 587,074 Output Tokens
+🔤 124,316,174 Input Tokens, 564,998 Output Tokens
 
-💵 $655.21 Estimated AI Cost This Week
+💵 $634.84 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 46 AI Prompts
+🧠 15 AI Sessions, 44 AI Prompts
 
-GPT                      10,168 lines        █████████████████████████   99.96 % 
+GPT                      10,087 lines        █████████████████████████   99.96 % 
 Deepseek                 4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -71,9 +71,9 @@ Exec-Wakatime            0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.46% of written lines came from AI
-📄 Detailed Prompter — average 1,444 characters per prompt
+📄 Detailed Prompter — average 1,486 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.94% of changed lines were hand-edited
+🚀 High AI Trust — 0.86% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
