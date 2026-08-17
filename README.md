@@ -9,7 +9,7 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-166%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-169%20hrs%2021%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
