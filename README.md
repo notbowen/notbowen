@@ -9,7 +9,7 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-169%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-170%20hrs%2040%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -27,51 +27,51 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               4 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   35.09 % 
-Rust                     3 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
-Markdown                 1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Typst                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-JavaScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+TypeScript               4 hrs 41 mins       ████████████░░░░░░░░░░░░░   47.07 % 
+Rust                     1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Markdown                 1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+JavaScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+OCaml                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 🔥 Editors: 
-Codex Vscode             6 hrs 26 mins       ████████████░░░░░░░░░░░░░   48.18 % 
-Zed                      2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-Neovim                   2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-Codex CLI                1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Codex Vscode             3 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   36.82 % 
+Zed                      2 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   28.94 % 
+Neovim                   1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+Codex CLI                1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
 
 🐱‍💻 Projects: 
-finals-platform          5 hrs 52 mins       ███████████░░░░░░░░░░░░░░   43.90 % 
-sgbuss-backend           2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-RSAC                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-raytracing               1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Unknown Project          45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+finals-platform          5 hrs 52 mins       ███████████████░░░░░░░░░░   58.92 % 
+RSAC                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+raytracing               1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+admin-scripts            33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+sat                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 💻 Operating System: 
-Mac                      13 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 29 mins (70.96%)
+⏱ AI Coding Time: 6 hrs 38 mins (66.56%)
 
-✍️ 10,266 lines written by AI, 320 lines written by hand (96.98% AI-written)
+✍️ 5,627 lines written by AI, 301 lines written by hand (94.92% AI-written)
 
-🔤 5,374,193 Input Tokens, 698,245 Output Tokens
+🔤 3,338,000 Input Tokens, 438,544 Output Tokens
 
-💵 $144.78 Estimated AI Cost This Week
+💵 $82.76 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 70 AI Prompts
+🧠 19 AI Sessions, 64 AI Prompts
 
-GPT                      11,242 lines        █████████████████████████   100.00 % 
+GPT                      6,108 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.98% of written lines came from AI
-📝 Concise Prompter — average 275 characters per prompt
+🤖 AI-Driven — 94.92% of written lines came from AI
+📝 Concise Prompter — average 280 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 2.89% of changed lines were hand-edited
+🚀 High AI Trust — 4.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
