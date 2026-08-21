@@ -27,51 +27,51 @@ In my free time, you'll find me attempting (and failing) at **web** & **pwn** CT
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               4 hrs 41 mins       ████████████░░░░░░░░░░░░░   47.07 % 
-Rust                     1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Markdown                 1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-JavaScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-OCaml                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+TypeScript               4 hrs 41 mins       ████████████░░░░░░░░░░░░░   47.63 % 
+Rust                     1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Markdown                 1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+JavaScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   36.82 % 
-Zed                      2 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   28.94 % 
-Neovim                   1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
-Codex CLI                1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Codex Vscode             3 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   36.61 % 
+Zed                      2 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   29.28 % 
+Neovim                   1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Codex CLI                1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
 
 🐱‍💻 Projects: 
-finals-platform          5 hrs 52 mins       ███████████████░░░░░░░░░░   58.92 % 
-RSAC                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-raytracing               1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-admin-scripts            33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-sat                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+finals-platform          5 hrs 52 mins       ███████████████░░░░░░░░░░   59.62 % 
+RSAC                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+raytracing               1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+admin-scripts            33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+sat                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 
 💻 Operating System: 
-Mac                      9 hrs 58 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 38 mins (66.56%)
+⏱ AI Coding Time: 6 hrs 32 mins (66.32%)
 
-✍️ 5,627 lines written by AI, 301 lines written by hand (94.92% AI-written)
+✍️ 5,596 lines written by AI, 301 lines written by hand (94.9% AI-written)
 
-🔤 3,338,000 Input Tokens, 438,544 Output Tokens
+🔤 3,117,323 Input Tokens, 428,789 Output Tokens
 
-💵 $82.76 Estimated AI Cost This Week
+💵 $80.70 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 64 AI Prompts
+🧠 18 AI Sessions, 63 AI Prompts
 
-GPT                      6,108 lines         █████████████████████████   100.00 % 
+GPT                      6,077 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.92% of written lines came from AI
-📝 Concise Prompter — average 280 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 4.83% of changed lines were hand-edited
+🤖 AI-Driven — 94.9% of written lines came from AI
+📝 Concise Prompter — average 276 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 4.85% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
