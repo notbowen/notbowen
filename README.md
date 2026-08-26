@@ -87,13 +87,6 @@ Swift                    2 repos             ░░░░░░░░░░░�
 
 ---
 
-## 📊 My Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notbowen&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="notbowen" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=notbowen&show_icons=true&locale=en&theme=gruvbox&include_all_commits=true" alt="notbowen" />
-</p>
-
 ## 💬 Banger Quotes
 
 > Some people, when confronted with a problem, think,  
