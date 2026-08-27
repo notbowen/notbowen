@@ -1,10 +1,8 @@
 # Hi, I'm Bowen 👋
 
-A student studying **Cybersecurity & Digital Forensics** at **Ngee Ann Polytechnic**.
+My main interest is in **programming languages** & **AI**!
 
-My main interest is in **programming languages** & **algorithms**!
-
-In my free time, you'll find me attempting (and failing) at **web** & **pwn** CTF challenges.
+Occasionally, you might catch me attempting (and failing) at **web** & **pwn** CTF challenges.
 
 ---
 
