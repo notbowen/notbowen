@@ -18,21 +18,21 @@ Occasionally, you might catch me attempting (and failing) at **web** & **pwn** C
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                789 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-🌆 Daytime                2217 commits        ███████████░░░░░░░░░░░░░░   43.47 % 
-🌃 Evening                1769 commits        █████████░░░░░░░░░░░░░░░░   34.69 % 
-🌙 Night                  325 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+🌞 Morning                789 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+🌆 Daytime                2217 commits        ███████████░░░░░░░░░░░░░░   43.40 % 
+🌃 Evening                1777 commits        █████████░░░░░░░░░░░░░░░░   34.79 % 
+🌙 Night                  325 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   869 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Tuesday                  805 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Wednesday                811 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-Thursday                 707 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-Friday                   489 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Saturday                 717 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Sunday                   702 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Monday                   869 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Tuesday                  805 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Wednesday                811 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Thursday                 715 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Friday                   489 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Saturday                 717 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Sunday                   702 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
 ```
 
 
@@ -42,49 +42,54 @@ Sunday                   702 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Rust                     1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-TypeScript               1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Nix                      1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-lisp                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-SQL                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+TypeScript               2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+Rust                     1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+SQL                      1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Nix                      1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+CSS                      1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
 
 🔥 Editors: 
-Neovim                   5 hrs 50 mins       ████████████████░░░░░░░░░   64.77 % 
-Codex Vscode             2 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.31 % 
-Zed                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Neovim                   7 hrs 36 mins       ██████████████░░░░░░░░░░░   57.50 % 
+Codex Vscode             3 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
+Codex CLI                50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Claude Code              43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Zed                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
 
 🐱‍💻 Projects: 
-sat-grinder              4 hrs 12 mins       ████████████░░░░░░░░░░░░░   46.65 % 
-raytracing               1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-nix                      1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Unknown Project          55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-ocamlsite                32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+sat-grinder              6 hrs 58 mins       █████████████░░░░░░░░░░░░   52.67 % 
+raytracing               1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+ocamlsite                1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+nix                      1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Unknown Project          55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
 
 💻 Operating System: 
-Mac                      9 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      13 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 42 mins (41.11%)
+⏱ AI Coding Time: 6 hrs 35 mins (49.76%)
 
-✍️ 6,447 lines written by AI, 255 lines written by hand (96.2% AI-written)
+✍️ 7,046 lines written by AI, 361 lines written by hand (95.13% AI-written)
 
-🔤 1,937,945 Input Tokens, 389,923 Output Tokens
+🔤 5,386,468 Input Tokens, 646,619 Output Tokens
 
-💵 $102.00 Estimated AI Cost This Week
+💵 $137.13 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 15 AI Prompts
+🧠 26 AI Sessions, 46 AI Prompts
 
-GPT                      6,054 lines         ███████████████████████░░   92.48 % 
-Codex-Vscode             492 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+GPT                      6,275 lines         ██████████████████████░░░   87.48 % 
+Codex-Vscode             492 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+Opus                     354 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Grok                     52 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.2% of written lines came from AI
-📄 Detailed Prompter — average 825 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 6.49% of changed lines were hand-edited
+🤖 AI-Driven — 95.13% of written lines came from AI
+📝 Concise Prompter — average 491 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 7.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
