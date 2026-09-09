@@ -7,32 +7,32 @@ Occasionally, you might catch me attempting (and failing) at **web** & **pwn** C
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C379%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C381%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-185%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-186%20hrs%2053%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.26%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.39%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                813 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-🌆 Daytime                2243 commits        ███████████░░░░░░░░░░░░░░   42.46 % 
-🌃 Evening                1896 commits        █████████░░░░░░░░░░░░░░░░   35.90 % 
-🌙 Night                  330 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+🌞 Morning                817 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+🌆 Daytime                2257 commits        ███████████░░░░░░░░░░░░░░   42.46 % 
+🌃 Evening                1910 commits        █████████░░░░░░░░░░░░░░░░   35.93 % 
+🌙 Night                  332 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   971 commits         █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-Tuesday                  841 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Wednesday                816 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Thursday                 719 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Friday                   516 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Saturday                 717 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Sunday                   702 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Monday                   971 commits         █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
+Tuesday                  844 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Wednesday                846 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Thursday                 720 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Friday                   516 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Saturday                 717 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Sunday                   702 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
 ```
 
 
@@ -94,11 +94,11 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Rust                     18 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-TypeScript               12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-OCaml                    6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Swift                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Rust                     18 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+TypeScript               12 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Jupyter Notebook         7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+OCaml                    6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 
 
