@@ -42,53 +42,52 @@ Sunday                   713 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Go                       3 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
-Markdown                 3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
-TypeScript               2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Astro                    1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-JavaScript               59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Markdown                 3 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   26.10 % 
+Go                       3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+TypeScript               1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Astro                    1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Python                   1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
 
 🔥 Editors: 
-Codex Vscode             7 hrs 28 mins       █████████████░░░░░░░░░░░░   52.47 % 
-Neovim                   3 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   28.10 % 
-Codex CLI                1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-Claude Code              1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-Zed                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Codex Vscode             6 hrs 55 mins       █████████████░░░░░░░░░░░░   53.05 % 
+Neovim                   3 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.81 % 
+Codex CLI                1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Claude Code              1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
 
 🐱‍💻 Projects: 
-larp                     8 hrs 17 mins       ███████████████░░░░░░░░░░   58.27 % 
-website-v2               2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-sat-grinder              1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-fihlime                  40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-Unknown Project          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+larp                     7 hrs 24 mins       ██████████████░░░░░░░░░░░   56.81 % 
+website-v2               2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+fihlime                  1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+sat-grinder              36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Unknown Project          34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 
 💻 Operating System: 
-Mac                      14 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 39 mins (88.88%)
+⏱ AI Coding Time: 11 hrs 48 mins (90.55%)
 
-✍️ 15,304 lines written by AI, 339 lines written by hand (97.83% AI-written)
+✍️ 12,186 lines written by AI, 331 lines written by hand (97.36% AI-written)
 
-🔤 7,207,552 Input Tokens, 1,327,292 Output Tokens
+🔤 6,818,741 Input Tokens, 1,163,841 Output Tokens
 
-💵 $318.94 Estimated AI Cost This Week
+💵 $268.56 Estimated AI Cost This Week
 
-🧠 49 AI Sessions, 86 AI Prompts
+🧠 44 AI Sessions, 73 AI Prompts
 
-GPT                      14,022 lines        ██████████████████████░░░   89.24 % 
-Fable                    1,690 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+GPT                      10,766 lines        ██████████████████████░░░   86.43 % 
+Fable                    1,690 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.83% of written lines came from AI
-📄 Detailed Prompter — average 1,394 characters per prompt
+🤖 AI-Driven — 97.36% of written lines came from AI
+📚 Verbose Prompter — average 1,920 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 3.45% of changed lines were hand-edited
+🚀 High AI Trust — 3.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
