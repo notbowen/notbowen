@@ -42,54 +42,54 @@ Sunday                   713 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Rust                     6 hrs 1 min         ██████████████░░░░░░░░░░░   55.20 % 
-Markdown                 1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-TypeScript               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-Nix                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Rust                     6 hrs 1 min         ██████████████░░░░░░░░░░░   56.79 % 
+Markdown                 1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+TypeScript               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Nix                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+CSS                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 🔥 Editors: 
-Zed                      6 hrs               ██████████████░░░░░░░░░░░   55.05 % 
-Neovim                   2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-Claude Code              1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Codex Vscode             49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-Unknown Editor           25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Zed                      6 hrs               ██████████████░░░░░░░░░░░   56.63 % 
+Neovim                   2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+Claude Code              1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Codex Vscode             49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Unknown Editor           25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 🐱‍💻 Projects: 
-Unknown Project          6 hrs 26 mins       ███████████████░░░░░░░░░░   59.05 % 
-website-analytics        1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-unbald-gpt               1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-cutile-rs                32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-nix                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Unknown Project          6 hrs 26 mins       ███████████████░░░░░░░░░░   60.69 % 
+website-analytics        1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+unbald-gpt               1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+cutile-rs                32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+nix                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 
 💻 Operating System: 
-WSL                      6 hrs 24 mins       ███████████████░░░░░░░░░░   58.73 % 
-Mac                      4 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   41.27 % 
+WSL                      6 hrs 24 mins       ███████████████░░░░░░░░░░   60.43 % 
+Mac                      4 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   39.57 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 31 mins (23.09%)
+⏱ AI Coding Time: 2 hrs 13 mins (20.94%)
 
-✍️ 4,822 lines written by AI, 634 lines written by hand (88.38% AI-written)
+✍️ 4,821 lines written by AI, 634 lines written by hand (88.38% AI-written)
 
-🔤 1,136,048 Input Tokens, 445,240 Output Tokens
+🔤 978,863 Input Tokens, 429,977 Output Tokens
 
-💵 $56.06 Estimated AI Cost This Week
+💵 $51.40 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 23 AI Prompts
+🧠 7 AI Sessions, 14 AI Prompts
 
-Opus                     3,879 lines         ████████████████████░░░░░   79.70 % 
-GPT                      784 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Opus                     3,879 lines         ████████████████████░░░░░   79.72 % 
+GPT                      783 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
 Deepseek                 204 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 88.38% of written lines came from AI
-📚 Verbose Prompter — average 1,930 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 3,072 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 15.77% of changed lines were hand-edited
 ```
 
