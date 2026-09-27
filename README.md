@@ -13,26 +13,26 @@ Occasionally, you might catch me attempting (and failing) at **web** & **pwn** C
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.65%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.72%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                854 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-🌆 Daytime                2359 commits        ██████████░░░░░░░░░░░░░░░   41.75 % 
-🌃 Evening                2020 commits        █████████░░░░░░░░░░░░░░░░   35.75 % 
-🌙 Night                  417 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+🌞 Morning                860 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+🌆 Daytime                2382 commits        ██████████░░░░░░░░░░░░░░░   41.89 % 
+🌃 Evening                2027 commits        █████████░░░░░░░░░░░░░░░░   35.64 % 
+🌙 Night                  418 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1007 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-Tuesday                  904 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Wednesday                879 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Thursday                 830 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Friday                   574 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Saturday                 743 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Sunday                   713 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Monday                   1010 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Tuesday                  907 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Wednesday                880 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Thursday                 830 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Friday                   574 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Saturday                 766 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Sunday                   720 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
 ```
 
 
@@ -97,10 +97,10 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 
 ```text
 Rust                     20 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-TypeScript               14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+TypeScript               13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 Jupyter Notebook         7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Go                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 Astro                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 ```
 
 
