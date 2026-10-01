@@ -42,53 +42,50 @@ Sunday                   736 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Other                    36 mins             ████████░░░░░░░░░░░░░░░░░   33.18 % 
-Nix                      25 mins             ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-OASv2-json               12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Bash                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Other                    36 mins             ██████████░░░░░░░░░░░░░░░   41.97 % 
+Nix                      25 mins             ███████░░░░░░░░░░░░░░░░░░   29.83 % 
+OASv2-json               12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Objective-C              8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 🔥 Editors: 
-Lapiz                    46 mins             ███████████░░░░░░░░░░░░░░   42.88 % 
-Codex Vscode             32 mins             ███████░░░░░░░░░░░░░░░░░░   29.81 % 
-Zed                      14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Neovim                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-Claude Code              6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Lapiz                    46 mins             ██████████████░░░░░░░░░░░   54.25 % 
+Codex Vscode             31 mins             █████████░░░░░░░░░░░░░░░░   36.91 % 
+Neovim                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
 
 🐱‍💻 Projects: 
-lapiz                    46 mins             ███████████░░░░░░░░░░░░░░   42.88 % 
-nix                      33 mins             ████████░░░░░░░░░░░░░░░░░   30.92 % 
-wca                      22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-website-v2               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-tmp                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+lapiz                    46 mins             ██████████████░░░░░░░░░░░   54.25 % 
+nix                      33 mins             ██████████░░░░░░░░░░░░░░░   39.12 % 
+website-v2               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+tmp                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 💻 Operating System: 
-Mac                      1 hr 2 mins         ██████████████░░░░░░░░░░░   57.12 % 
-Unknown OS               46 mins             ███████████░░░░░░░░░░░░░░   42.88 % 
+Unknown OS               46 mins             ██████████████░░░░░░░░░░░   54.25 % 
+Mac                      39 mins             ███████████░░░░░░░░░░░░░░   45.75 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 9 mins (64.18%)
+⏱ AI Coding Time: 47 mins (55.16%)
 
-✍️ 213 lines written by AI, 1 lines written by hand (99.53% AI-written)
+✍️ 208 lines written by AI, 1 lines written by hand (99.52% AI-written)
 
-🔤 324,962 Input Tokens, 32,794 Output Tokens
+🔤 280,062 Input Tokens, 30,307 Output Tokens
 
-💵 $22.41 Estimated AI Cost This Week
+💵 $22.14 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 14 AI Prompts
+🧠 4 AI Sessions, 9 AI Prompts
 
-GPT                      208 lines           ████████████████████████░   97.65 % 
-Opus                     5 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+GPT                      208 lines           █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.53% of written lines came from AI
-📝 Concise Prompter — average 253 characters per prompt
+🤖 AI-Driven — 99.52% of written lines came from AI
+📝 Concise Prompter — average 318 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.84% of changed lines were hand-edited
+🚀 High AI Trust — 1.89% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
