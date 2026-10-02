@@ -19,9 +19,9 @@ Occasionally, you might catch me attempting (and failing) at **web** & **pwn** C
 
 ```text
 🌞 Morning                864 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-🌆 Daytime                2409 commits        ███████████░░░░░░░░░░░░░░   42.02 % 
-🌃 Evening                2038 commits        █████████░░░░░░░░░░░░░░░░   35.55 % 
-🌙 Night                  422 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+🌆 Daytime                2409 commits        ███████████░░░░░░░░░░░░░░   42.01 % 
+🌃 Evening                2038 commits        █████████░░░░░░░░░░░░░░░░   35.54 % 
+🌙 Night                  423 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
@@ -29,9 +29,9 @@ Occasionally, you might catch me attempting (and failing) at **web** & **pwn** C
 Monday                   1032 commits        ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
 Tuesday                  910 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
 Wednesday                880 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Thursday                 831 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Thursday                 831 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
 Friday                   575 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Saturday                 769 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Saturday                 770 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
 Sunday                   736 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
 ```
 
@@ -42,60 +42,40 @@ Sunday                   736 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Other                    36 mins             ██████████░░░░░░░░░░░░░░░   41.97 % 
-Nix                      25 mins             ███████░░░░░░░░░░░░░░░░░░   29.83 % 
-OASv2-json               12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Objective-C              8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Other                    33 mins             █████████████████░░░░░░░░   67.38 % 
+OASv2-json               12 mins             ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-Lapiz                    46 mins             ██████████████░░░░░░░░░░░   54.25 % 
-Codex Vscode             31 mins             █████████░░░░░░░░░░░░░░░░   36.91 % 
-Neovim                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Lapiz                    46 mins             ███████████████████████░░   93.02 % 
+Neovim                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🐱‍💻 Projects: 
-lapiz                    46 mins             ██████████████░░░░░░░░░░░   54.25 % 
-nix                      33 mins             ██████████░░░░░░░░░░░░░░░   39.12 % 
-website-v2               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-tmp                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+lapiz                    46 mins             ███████████████████████░░   93.02 % 
+website-v2               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Unknown OS               46 mins             ██████████████░░░░░░░░░░░   54.25 % 
-Mac                      39 mins             ███████████░░░░░░░░░░░░░░   45.75 % 
+Unknown OS               46 mins             ███████████████████████░░   93.02 % 
+Mac                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 mins (55.16%)
-
-✍️ 208 lines written by AI, 1 lines written by hand (99.52% AI-written)
-
-🔤 280,062 Input Tokens, 30,307 Output Tokens
-
-💵 $22.14 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 9 AI Prompts
-
-GPT                      208 lines           █████████████████████████   100.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.52% of written lines came from AI
-📝 Concise Prompter — average 318 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.89% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Rust                     20 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-TypeScript               13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Jupyter Notebook         7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-Go                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-Astro                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Python                   67 repos            ██████████░░░░░░░░░░░░░░░   38.29 % 
+Rust                     20 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+TypeScript               14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Go                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Astro                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 ```
 
 
