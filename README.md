@@ -11,7 +11,7 @@ Occasionally, you might catch me attempting (and failing) at **web** & **pwn** C
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-211%20hrs%2013%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.74%20million%20lines%20of%20code-blue?style=flat)
 
@@ -42,24 +42,23 @@ Sunday                   736 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Other                    33 mins             █████████████████░░░░░░░░   67.38 % 
-OASv2-json               12 mins             ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Other                    20 mins             ██████████████░░░░░░░░░░░   56.00 % 
+OASv2-json               12 mins             █████████░░░░░░░░░░░░░░░░   34.80 % 
+Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
 
 🔥 Editors: 
-Lapiz                    46 mins             ███████████████████████░░   93.02 % 
-Neovim                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Lapiz                    33 mins             ███████████████████████░░   90.80 % 
+Neovim                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🐱‍💻 Projects: 
-lapiz                    46 mins             ███████████████████████░░   93.02 % 
-website-v2               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+lapiz                    31 mins             █████████████████████░░░░   84.66 % 
+website-v2               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+icaic-docs               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
 
 💻 Operating System: 
-Unknown OS               46 mins             ███████████████████████░░   93.02 % 
-Mac                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Unknown OS               33 mins             ███████████████████████░░   90.80 % 
+Mac                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
 ```
 
 🤖 **AI Coding This Week** 
