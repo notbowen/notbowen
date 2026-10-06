@@ -9,7 +9,7 @@ Occasionally, you might catch me attempting (and failing) at **web** & **pwn** C
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C414%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-211%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-211%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -42,23 +42,17 @@ Sunday                   736 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Other                    20 mins             ██████████████░░░░░░░░░░░   56.00 % 
-OASv2-json               12 mins             █████████░░░░░░░░░░░░░░░░   34.80 % 
-Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Other                    2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Lapiz                    33 mins             ███████████████████████░░   90.80 % 
-Neovim                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Lapiz                    2 mins              ███████████████████░░░░░░   77.62 % 
+Codex Vscode             0 secs              ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
 
 🐱‍💻 Projects: 
-lapiz                    31 mins             █████████████████████░░░░   84.66 % 
-website-v2               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-icaic-docs               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+icaic-docs               2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Unknown OS               33 mins             ███████████████████████░░   90.80 % 
-Mac                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Unknown OS               2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
