@@ -42,17 +42,18 @@ Sunday                   736 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Other                    2 mins              █████████████████████████   100.00 % 
+Other                    3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Lapiz                    2 mins              ███████████████████░░░░░░   77.62 % 
-Codex Vscode             0 secs              ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+Lapiz                    3 mins              █████████████████████░░░░   84.07 % 
+Codex Vscode             0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
 
 🐱‍💻 Projects: 
-icaic-docs               2 mins              █████████████████████████   100.00 % 
+icaic-docs               2 mins              █████████████████████░░░░   83.82 % 
+lapiz                    0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
 
 💻 Operating System: 
-Unknown OS               2 mins              █████████████████████████   100.00 % 
+Unknown OS               3 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
