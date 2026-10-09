@@ -18,21 +18,21 @@ Occasionally, you might catch me attempting (and failing) at **web** & **pwn** C
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                864 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-🌆 Daytime                2409 commits        ██████████░░░░░░░░░░░░░░░   41.87 % 
-🌃 Evening                2058 commits        █████████░░░░░░░░░░░░░░░░   35.77 % 
-🌙 Night                  423 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+🌞 Morning                870 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+🌆 Daytime                2422 commits        ██████████░░░░░░░░░░░░░░░   41.83 % 
+🌃 Evening                2071 commits        █████████░░░░░░░░░░░░░░░░   35.77 % 
+🌙 Night                  427 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1032 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-Tuesday                  910 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Wednesday                880 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Thursday                 851 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Friday                   575 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-Saturday                 770 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Sunday                   736 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Monday                   1035 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+Tuesday                  919 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Wednesday                881 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Thursday                 864 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Friday                   585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Saturday                 770 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Sunday                   736 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
 ```
 
 
@@ -42,19 +42,21 @@ Sunday                   736 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Other                    4 mins              █████████████████████████   100.00 % 
+Other                    1 hr 46 mins        ████████████████████░░░░░   79.01 % 
+Markdown                 28 mins             █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
 
 🔥 Editors: 
-Lapiz                    4 mins              ██████████████████████░░░   86.29 % 
-Codex Vscode             0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Lapiz                    2 hrs 14 mins       █████████████████████████   99.51 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🐱‍💻 Projects: 
-icaic-docs               2 mins              ██████████████████░░░░░░░   70.26 % 
-lapiz                    1 min               ███████░░░░░░░░░░░░░░░░░░   29.74 % 
+lapiz                    1 hr 38 mins        ██████████████████░░░░░░░   73.73 % 
+icaic-devdocs            32 mins             ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+icaic-docs               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 💻 Operating System: 
-Unknown OS               3 mins              █████████████████████░░░░   83.82 % 
-Windows                  0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Windows                  1 hr 58 mins        ██████████████████████░░░   88.19 % 
+Unknown OS               15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
 ```
 
 🤖 **AI Coding This Week** 
