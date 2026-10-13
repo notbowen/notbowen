@@ -11,7 +11,7 @@ Occasionally, you might catch me attempting (and failing) at **web** & **pwn** C
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-212%20hrs%2016%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.84%20million%20lines%20of%20code-blue?style=flat)
 
@@ -42,21 +42,22 @@ Sunday                   736 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Other                    2 hrs               ████████████████████░░░░░   81.10 % 
-Markdown                 28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+Other                    2 hrs 3 mins        ████████████████████░░░░░   81.48 % 
+Markdown                 28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
 
 🔥 Editors: 
-Lapiz                    2 hrs 29 mins       █████████████████████████   99.56 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Lapiz                    2 hrs 32 mins       █████████████████████████   99.57 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🐱‍💻 Projects: 
-lapiz                    1 hr 52 mins        ███████████████████░░░░░░   75.62 % 
-icaic-devdocs            35 mins             ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
-icaic-docs               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+lapiz                    1 hr 52 mins        ███████████████████░░░░░░   74.11 % 
+icaic-devdocs            35 mins             ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+backshotr                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+icaic-docs               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-Windows                  2 hrs 15 mins       ███████████████████████░░   90.89 % 
-Unknown OS               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Windows                  2 hrs 15 mins       ██████████████████████░░░   89.08 % 
+Unknown OS               16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
 ```
 
 🤖 **AI Coding This Week** 
