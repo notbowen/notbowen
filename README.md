@@ -7,9 +7,9 @@ Occasionally, you might catch me attempting (and failing) at **web** & **pwn** C
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C414%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C414%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-214%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-214%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -42,27 +42,27 @@ Sunday                   800 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Other                    4 hrs 31 mins       ████████████████████████░   95.62 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-Nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Other                    4 hrs 12 mins       ████████████████████████░   95.31 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Lapiz                    4 hrs 43 mins       █████████████████████████   99.69 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Lapiz                    4 hrs 24 mins       █████████████████████████   99.67 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projects: 
-lapiz                    2 hrs 12 mins       ████████████░░░░░░░░░░░░░   46.79 % 
-minsky                   1 hr 45 mins        █████████░░░░░░░░░░░░░░░░   37.29 % 
-fih-agent                31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-devdocs                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-backshotr                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+lapiz                    2 hrs               ███████████░░░░░░░░░░░░░░   45.41 % 
+minsky                   1 hr 45 mins        ██████████░░░░░░░░░░░░░░░   39.93 % 
+fih-agent                31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+devdocs                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Windows                  2 hrs 5 mins        ███████████░░░░░░░░░░░░░░   44.24 % 
-Unknown OS               1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   28.61 % 
-Mac                      1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   27.15 % 
+Windows                  1 hr 55 mins        ███████████░░░░░░░░░░░░░░   43.72 % 
+Mac                      1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   29.06 % 
+Unknown OS               1 hr 12 mins        ███████░░░░░░░░░░░░░░░░░░   27.22 % 
 ```
 
 🤖 **AI Coding This Week** 
