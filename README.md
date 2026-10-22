@@ -11,28 +11,28 @@ Occasionally, you might catch me attempting (and failing) at **web** & **pwn** C
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-214%20hrs%2039%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.12%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.26%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                879 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-🌆 Daytime                2484 commits        ██████████░░░░░░░░░░░░░░░   41.32 % 
-🌃 Evening                2205 commits        █████████░░░░░░░░░░░░░░░░   36.68 % 
-🌙 Night                  443 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+🌞 Morning                887 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+🌆 Daytime                2498 commits        ██████████░░░░░░░░░░░░░░░   41.12 % 
+🌃 Evening                2254 commits        █████████░░░░░░░░░░░░░░░░   37.10 % 
+🌙 Night                  436 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1064 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Tuesday                  943 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Wednesday                893 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Thursday                 902 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Friday                   610 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-Saturday                 799 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Sunday                   800 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Monday                   1060 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Tuesday                  948 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Wednesday                886 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Thursday                 926 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Friday                   610 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Saturday                 813 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Sunday                   832 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
 ```
 
 
@@ -42,27 +42,27 @@ Sunday                   800 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Other                    4 hrs 12 mins       ████████████████████████░   95.31 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-Nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Other                    4 hrs 22 mins       ████████████████████████░   95.47 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Lapiz                    4 hrs 24 mins       █████████████████████████   99.67 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Lapiz                    4 hrs 34 mins       █████████████████████████   99.68 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🐱‍💻 Projects: 
-lapiz                    2 hrs               ███████████░░░░░░░░░░░░░░   45.41 % 
-minsky                   1 hr 45 mins        ██████████░░░░░░░░░░░░░░░   39.93 % 
-fih-agent                31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-devdocs                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+minsky                   2 hrs 2 mins        ███████████░░░░░░░░░░░░░░   44.49 % 
+lapiz                    1 hr 56 mins        ███████████░░░░░░░░░░░░░░   42.23 % 
+fih-agent                28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+devdocs                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Windows                  1 hr 55 mins        ███████████░░░░░░░░░░░░░░   43.72 % 
-Mac                      1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   29.06 % 
-Unknown OS               1 hr 12 mins        ███████░░░░░░░░░░░░░░░░░░   27.22 % 
+Windows                  2 hrs 9 mins        ████████████░░░░░░░░░░░░░   47.10 % 
+Mac                      1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   28.05 % 
+Unknown OS               1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -74,11 +74,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Rust                     21 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-TypeScript               14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Ruby                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Go                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Astro                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Rust                     20 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+TypeScript               14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Ruby                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Go                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Astro                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 ```
 
 
