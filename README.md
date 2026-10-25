@@ -9,30 +9,30 @@ Occasionally, you might catch me attempting (and failing) at **web** & **pwn** C
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C414%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-215%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-215%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.39%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.13%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                906 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-🌆 Daytime                2501 commits        ██████████░░░░░░░░░░░░░░░   40.81 % 
-🌃 Evening                2282 commits        █████████░░░░░░░░░░░░░░░░   37.24 % 
-🌙 Night                  439 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+🌞 Morning                1080 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+🌆 Daytime                2588 commits        █████████░░░░░░░░░░░░░░░░   35.65 % 
+🌃 Evening                3094 commits        ███████████░░░░░░░░░░░░░░   42.62 % 
+🌙 Night                  497 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1060 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-Tuesday                  951 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Wednesday                886 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Thursday                 943 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Friday                   610 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Saturday                 823 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Sunday                   855 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Monday                   1060 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Tuesday                  1038 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Wednesday                886 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Thursday                 1117 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+Friday                   610 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Saturday                 1026 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Sunday                   1522 commits        █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
 ```
 
 
@@ -42,27 +42,23 @@ Sunday                   855 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Other                    4 hrs 22 mins       ████████████████████████░   95.47 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Other                    3 hrs 8 mins        ███████████████████████░░   93.92 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+TOML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 🔥 Editors: 
-Lapiz                    4 hrs 34 mins       █████████████████████████   99.68 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Lapiz                    3 hrs 20 mins       █████████████████████████   99.67 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🐱‍💻 Projects: 
-minsky                   2 hrs 2 mins        ███████████░░░░░░░░░░░░░░   44.49 % 
-lapiz                    1 hr 56 mins        ███████████░░░░░░░░░░░░░░   42.23 % 
-fih-agent                28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-devdocs                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+lapiz                    1 hr 31 mins        ███████████░░░░░░░░░░░░░░   45.51 % 
+minsky                   1 hr 20 mins        ██████████░░░░░░░░░░░░░░░   40.22 % 
+fih-agent                28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
 
 💻 Operating System: 
-Windows                  2 hrs 9 mins        ████████████░░░░░░░░░░░░░   47.10 % 
-Mac                      1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   28.05 % 
-Unknown OS               1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
+Windows                  2 hrs 9 mins        ████████████████░░░░░░░░░   64.46 % 
+Unknown OS               1 hr 8 mins         █████████░░░░░░░░░░░░░░░░   34.01 % 
+Mac                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 ```
 
 🤖 **AI Coding This Week** 
