@@ -13,53 +13,7 @@ Occasionally, you might catch me attempting (and failing) at **web** & **pwn** C
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.14%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                954 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-🌆 Daytime                2525 commits        ██████████░░░░░░░░░░░░░░░   39.21 % 
-🌃 Evening                2506 commits        ██████████░░░░░░░░░░░░░░░   38.91 % 
-🌙 Night                  455 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1060 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Tuesday                  975 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Wednesday                886 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Thursday                 991 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Friday                   610 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-Saturday                 879 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Sunday                   1039 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-Other                    3 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Lapiz                    3 mins              █████████████████████░░░░   82.37 % 
-Codex Vscode             0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-
-🐱‍💻 Projects: 
-lapiz                    3 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.96%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in Python** 
 
