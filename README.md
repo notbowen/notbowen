@@ -11,28 +11,28 @@ Occasionally, you might catch me attempting (and failing) at **web** & **pwn** C
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-215%20hrs%2037%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.67%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.71%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                924 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-🌆 Daytime                2512 commits        ██████████░░░░░░░░░░░░░░░   40.15 % 
-🌃 Evening                2376 commits        █████████░░░░░░░░░░░░░░░░   37.97 % 
-🌙 Night                  445 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+🌞 Morning                924 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+🌆 Daytime                2515 commits        ██████████░░░░░░░░░░░░░░░   39.91 % 
+🌃 Evening                2417 commits        ██████████░░░░░░░░░░░░░░░   38.36 % 
+🌙 Night                  445 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1060 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Tuesday                  960 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Wednesday                895 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Thursday                 962 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Friday                   611 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Saturday                 845 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Sunday                   924 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Monday                   1060 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Tuesday                  960 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Wednesday                903 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Thursday                 962 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Friday                   611 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Saturday                 845 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Sunday                   960 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
 ```
 
 
@@ -42,18 +42,21 @@ Sunday                   924 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Other                    23 mins             █████████████████████████   100.00 % 
+Other                    1 hr 48 mins        ████████████████░░░░░░░░░   64.82 % 
+Markdown                 59 mins             █████████░░░░░░░░░░░░░░░░   35.18 % 
 
 🔥 Editors: 
-Lapiz                    23 mins             █████████████████████████   100.00 % 
+Lapiz                    2 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-devdocs                  18 mins             ████████████████████░░░░░   79.21 % 
-lapiz                    4 mins              █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+bayes                    1 hr 45 mins        ████████████████░░░░░░░░░   62.78 % 
+lapiz                    43 mins             ███████░░░░░░░░░░░░░░░░░░   26.20 % 
+devdocs                  18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
 
 💻 Operating System: 
-Windows                  21 mins             ███████████████████████░░   91.37 % 
-Unknown OS               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Mac                      1 hr 52 mins        █████████████████░░░░░░░░   66.91 % 
+Unknown OS               34 mins             █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+Windows                  21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -65,11 +68,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Rust                     20 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-TypeScript               14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-Ruby                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Go                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Astro                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Python                   68 repos            ██████████░░░░░░░░░░░░░░░   38.20 % 
+Rust                     20 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+TypeScript               14 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Ruby                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Go                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 ```
 
 
