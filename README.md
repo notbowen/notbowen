@@ -42,25 +42,25 @@ Sunday                   1078 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Other                    7 hrs 15 mins       ███████████████████████░░   93.78 % 
-Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Other                    6 hrs 42 mins       ███████████████████████░░   93.30 % 
+Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 Nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Lapiz                    7 hrs 44 mins       █████████████████████████   99.97 % 
+Lapiz                    7 hrs 11 mins       █████████████████████████   99.97 % 
 Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-bayes                    2 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   32.75 % 
-typist                   1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-lapiz                    1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-auto-trader              1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-stalkist                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+bayes                    2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   31.10 % 
+typist                   1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+lapiz                    1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+auto-trader              1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+stalkist                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 
 💻 Operating System: 
-Windows                  4 hrs 53 mins       ████████████████░░░░░░░░░   63.14 % 
-Unknown OS               2 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   36.13 % 
-Mac                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Windows                  4 hrs 53 mins       █████████████████░░░░░░░░   68.01 % 
+Unknown OS               2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   31.20 % 
+Mac                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -72,10 +72,10 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Rust                     20 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-HTML                     15 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-TypeScript               15 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-JavaScript               9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Python                   69 repos            █████████░░░░░░░░░░░░░░░░   37.91 % 
+HTML                     15 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+TypeScript               15 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+JavaScript               9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 Ruby                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 ```
 
