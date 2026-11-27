@@ -9,7 +9,7 @@ Occasionally, you might catch me attempting (and failing) at **web** & **pwn** C
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C416%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-220%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-220%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
 
@@ -42,25 +42,20 @@ Sunday                   1078 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Other                    3 hrs 55 mins       ███████████████████████░░   93.14 % 
-Markdown                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Other                    8 mins              █████████████████████████   98.71 % 
+Nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-Lapiz                    4 hrs 12 mins       █████████████████████████   99.95 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Lapiz                    8 mins              █████████████████████████   98.71 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🐱‍💻 Projects: 
-auto-trader              1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
-typist                   57 mins             ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
-lapiz                    51 mins             █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-bayes                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-stalkist                 29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+devdocs                  8 mins              █████████████████████████   98.71 % 
+nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 💻 Operating System: 
-Windows                  3 hrs 37 mins       ██████████████████████░░░   86.01 % 
-Unknown OS               31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Mac                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Unknown OS               5 mins              ████████████████░░░░░░░░░   62.68 % 
+Mac                      3 mins              █████████░░░░░░░░░░░░░░░░   37.32 % 
 ```
 
 🤖 **AI Coding This Week** 
