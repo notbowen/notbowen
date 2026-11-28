@@ -19,18 +19,18 @@ Occasionally, you might catch me attempting (and failing) at **web** & **pwn** C
 
 ```text
 🌞 Morning                985 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-🌆 Daytime                2544 commits        ██████████░░░░░░░░░░░░░░░   38.64 % 
-🌃 Evening                2598 commits        ██████████░░░░░░░░░░░░░░░   39.46 % 
+🌆 Daytime                2544 commits        ██████████░░░░░░░░░░░░░░░   38.63 % 
+🌃 Evening                2599 commits        ██████████░░░░░░░░░░░░░░░   39.47 % 
 🌙 Night                  457 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1073 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Monday                   1073 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
 Tuesday                  979 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
 Wednesday                933 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
 Thursday                 1020 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Friday                   613 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Friday                   614 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 Saturday                 888 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
 Sunday                   1078 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
 ```
@@ -42,20 +42,19 @@ Sunday                   1078 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Other                    8 mins              █████████████████████████   98.71 % 
-Nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Other                    29 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Lapiz                    8 mins              █████████████████████████   98.71 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Lapiz                    29 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-devdocs                  8 mins              █████████████████████████   98.71 % 
-nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+icaic-resolver           20 mins             █████████████████░░░░░░░░   68.27 % 
+devdocs                  8 mins              ███████░░░░░░░░░░░░░░░░░░   29.89 % 
+lapiz                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 💻 Operating System: 
-Unknown OS               5 mins              ████████████████░░░░░░░░░   62.68 % 
-Mac                      3 mins              █████████░░░░░░░░░░░░░░░░   37.32 % 
+Unknown OS               26 mins             ██████████████████████░░░   89.09 % 
+Mac                      3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
 ```
 
 🤖 **AI Coding This Week** 
